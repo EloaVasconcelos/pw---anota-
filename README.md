@@ -50,3 +50,9 @@
 ##  AULA DO DIA 08/04
 
 MANDEI NO TEAMS
+
+## 09/04
+
+adicionamis uma nova classe na Controller 
+
+AppDbContext.class
