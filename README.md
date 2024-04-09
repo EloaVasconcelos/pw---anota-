@@ -52,6 +52,11 @@
 MANDEI NO TEAMS
 
 ## 09/04
+nova classse na Controller : NOME DA CLASSE :  AppDbContext
+      public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { } 
+ public DbSet <Categoria> Categoria { get; set; } 
+ public DbSet <Lanche> lanche { get; set; }
+
 
 adicionamis uma nova classe na Controller 
 
